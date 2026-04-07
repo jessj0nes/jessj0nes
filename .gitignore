@@ -1,15 +1,7 @@
-_site
-.bundle
-.DS_store
 .idea
-.jekyll-cache
-.jekyll-metadata
-.ruby-version
-.sass-cache
-.tweet-cache
-.venv
-assets/libs/
-assets/rendercv/rendercv_output/*.typ
-Gemfile.lock
-node_modules/
-vendor
+node_modules
+
+# macOS metadata (AppleDouble "._*" files are common on exFAT/network/external drives)
+.DS_Store
+.AppleDouble
+._*
