@@ -1,42 +1,34 @@
 cv:
   name: Jess Jones
-  label: PhD candidate, Robotics & Autonomous Systems
-  email: jess.jones@bristol.ac.uk
   location: Bristol, UK
-  image: ""
-  summary: PhD candidate at the University of Bristol (FARSCOPE CDT) with a First Class BSc in Computer Science. Research interests span deep learning, multi-agent reinforcement learning, and vision-based computing for robotics and trustworthy analysis of online content.
-
+  email: jess.jones@bristol.ac.uk
+  phone: "+447876116588"
+  website: https://jessj0nes.github.io
   social_networks:
     - network: GitHub
       username: jessj0nes
 
-  address:
-    street: 20 Brunswick Street
-    city: Bristol
-    region: England
-    postalCode: BS5 9QN
-    countryCode: GB
-
   sections:
+    summary:
+      - PhD candidate at the University of Bristol (FARSCOPE CDT) with a First Class BSc in Computer Science. Research interests span deep learning, multi-agent reinforcement learning, and vision-based computing for robotics and trustworthy analysis of online content.
+
     Education:
       - institution: University of Bristol
-        location: Bristol, UK
-        url: https://www.bristol.ac.uk/
         area: Robotics & Autonomous Systems
-        studyType: PhD
-        start_date: 2023
-        end_date: 2027
+        degree: PhD
+        start_date: 2023-09
+        end_date: present
+        location: Bristol, UK
         highlights:
           - "FARSCOPE Centre for Doctoral Training."
           - "Supervisor: Prof. Sabine Hauert."
 
       - institution: University of Bristol
-        location: Bristol, UK
-        url: https://www.bristol.ac.uk/
         area: Computer Science
-        studyType: BSc (First Class Honours)
-        start_date: 2020
-        end_date: 2023
+        degree: BSc (First Class Honours)
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Bristol, UK
         highlights:
           - "Hargrave Prize for best final-year BSc thesis."
           - "NAG HPC Student Prize (second highest accreditation)."
@@ -45,101 +37,108 @@ cv:
     Experience:
       - company: CASM Technology
         position: Developer & Researcher
-        location: ""
-        start_date: 2024-02-01
-        end_date: ""
-        summary: Research and development of tools leveraging foundation models, deep learning, and other ML paradigms for analysis of social media, misinformation, and harmful content.
+        start_date: 2024-02
+        end_date: present
         highlights:
-          - "NLP and ML systems for real-world audit and safety workflows."
+          - "Research and development of tools leveraging foundation models, deep learning, and other ML paradigms for analysis of social media, misinformation, and harmful content."
 
       - company: Motion Impossible
         position: Full-stack Software Engineer
-        location: ""
-        start_date: 2023-05-01
-        end_date: 2023-09-01
-        summary: Designed architecture and UI for simultaneous control of multiple robotic camera dollies.
+        start_date: 2023-05
+        end_date: 2023-09
         highlights:
-          - "Communication network for one-to-one, one-to-many, and many-to-many device interactions."
+          - "Designed the architecture and UI for simultaneous control of multiple robotic camera dollies."
+          - "Implemented communication network for one-to-one, one-to-many, and many-to-many device interactions."
 
       - company: University of Bristol — High Performance Computing Group
         position: Research Intern
+        start_date: 2022-06
+        end_date: 2022-08
         location: Bristol, UK
-        start_date: 2022-06-01
-        end_date: 2022-08-31
-        summary: Eight-week internship benchmarking MGCFD-OP2 on Arm architectures (ThunderX2, Graviton 2, Graviton 3).
         highlights:
-          - "Released mgcfd-op2 and babelstream packages to the Spack repository."
+          - "Benchmarked MGCFD-OP2 across Arm architectures: ThunderX2, Graviton 2, Graviton 3."
+          - "Released mgcfd-op2 and babelstream packages to the Spack public repository."
 
       - company: CASM Technology
         position: Developer & Researcher (summers)
-        location: ""
-        start_date: 2020-06-01
-        end_date: 2021-09-01
-        summary: Summer placements supporting PhD-level NLP research and fact-checking systems.
+        start_date: 2020-06
+        end_date: 2021-09
         highlights:
-          - "Custom entity linking in an automated fact-checking pipeline."
+          - "Custom entity linking component in an automated fact-checking pipeline."
           - "Research for UK Cabinet Office report on technologies for operational delivery."
 
       - company: Herb & Bloom
         position: Owner & Director
-        location: ""
         start_date: 2017
         end_date: 2019
-        summary: Indoor vertical farming start-up. Responsible for all aspects of establishing, operating, and managing the business.
+        highlights:
+          - "Indoor vertical farming start-up. Responsible for all aspects of establishing, operating, and managing the business."
 
       - company: Cubitt House
         position: Operations Director
-        location: ""
         start_date: 2014
         end_date: 2017
-        summary: Premium pub and hotel group with ~£14m turnover. Responsible for operational delivery, site and management performance, procurement, and strategic planning.
-
-    Awards:
-      - title: Hargrave Prize
-        date: 2023-08-01
-        awarder: University of Bristol
-        summary: Best final-year undergraduate thesis on the BSc Computer Science programme.
-
-      - title: NAG HPC Student Prize
-        date: 2023-07-01
-        awarder: University of Bristol / NAG
-        summary: Second highest accreditation on the High Performance Computing programme (2023).
-
-      - title: Netcraft Prize
-        date: 2022-07-01
-        awarder: University of Bristol
-        summary: Awarded to the top ten second-year Computer Science students (2022).
+        highlights:
+          - "Five-site premium pub and hotel group with ~£14m turnover."
+          - "Operational delivery across sites, management performance, procurement, and strategic planning."
 
     Publications:
       - title: "Assessing VLM-Driven Semantic Affordance Inference for Non-Humanoid Robot Morphologies"
         authors:
           - Jess Jones
-        publisher: AAMAS 2026
-        releaseDate: 2026-01-01
-        url: https://doi.org/10.65109/WTKR8312
-        summary: Evaluates vision-language models for zero-shot affordance inference on non-humanoid robots, identifying conservative bias with implications for safe deployment.
+        doi: 10.65109/WTKR8312
+        date: 2026
+        journal: "Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
+
+    Awards:
+      - name: Hargrave Prize
+        date: 2023-08
+        highlights:
+          - "Best final-year undergraduate thesis on the BSc Computer Science programme at the University of Bristol."
+
+      - name: NAG HPC Student Prize
+        date: 2023-07
+        highlights:
+          - "Second highest accreditation on the High Performance Computing programme (2023)."
+
+      - name: Netcraft Prize
+        date: 2022-07
+        highlights:
+          - "Awarded to the top ten second-year Computer Science students at the University of Bristol (2022)."
+
+    Projects:
+      - name: MARL Framework for Swarm Communication
+        start_date: 2024-09
+        end_date: present
+        highlights:
+          - "Simulation framework for efficient MARL experiments on Bristol swarm group's DOTS robots."
+          - "Novel paint-mixing scenario testing communication accuracy and interpretation across agents."
+          - "Evaluated a broad range of MARL algorithms and deep learning architectures."
+
+      - name: 3D Corallite Reconstruction (BSc thesis)
+        start_date: 2022-09
+        end_date: 2023-05
+        highlights:
+          - "UNet-ViT pipeline on volumetric micro-CT inputs; novel topological loss function."
+          - "Fully automated Blender API system for interactive 3D structural analysis."
+
+      - name: Lattice-Boltzmann HPC
+        start_date: 2022-09
+        end_date: 2023-05
+        highlights:
+          - "Distributed CFD optimisations with OpenMP, MPI, and OpenCL."
+          - "Architecture-specific serial optimisations, multi-node scaling, GPU offloading."
 
     Skills:
-      - name: Languages
-        level: ""
-        icon: fa-solid fa-code
-        keywords: "C, C++, C#, Python, Java, Go, Haskell, SQL"
-
-      - name: Tools & Frameworks
-        level: ""
-        icon: fa-solid fa-toolbox
-        keywords: "PyTorch, TensorFlow, OpenMP, MPI, OpenCL, AWS, Git, Unity, Unreal Engine"
-
-    Interests:
-      - name: Research
-        icon: fa-solid fa-flask
-        keywords: "Deep Learning, Multi-Agent Reinforcement Learning, Vision-Language Models, Swarm Robotics, Affordance Inference, High Performance Computing"
+      - label: Languages
+        details: C, C++, C#, Python, Java, Go, Haskell, SQL
+      - label: Tools & Frameworks
+        details: PyTorch, TensorFlow, OpenMP, MPI, OpenCL, AWS, Git, Unity, Unreal Engine
 
     References:
       - name: Prof. Sabine Hauert, OBE
-        icon: fa-solid fa-user
-        reference: "PhD supervisor, University of Bristol — sabine.hauert@bristol.ac.uk"
-
+        highlights:
+          - "PhD supervisor, University of Bristol — sabine.hauert@bristol.ac.uk"
       - name: David Weir
-        icon: fa-solid fa-building
-        reference: "Director, CASM Technology — davidw@casmtechnology.com"
+        highlights:
+          - "Director, CASM Technology — davidw@casmtechnology.com"
