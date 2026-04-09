@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://jessjones.github.io/sitemap.xml
+Sitemap: https://jessj0nes.github.io/sitemap.xml
