@@ -24,9 +24,7 @@
       "startDate": "2024-02-01",
       "endDate": "",
       "summary": "Tools using foundation models and machine learning for analysis of social media, misinformation, and harmful content.",
-      "highlights": [
-        "Research and development on NLP and ML systems for real-world audit and safety workflows."
-      ]
+      "highlights": ["Research and development on NLP and ML systems for real-world audit and safety workflows."]
     },
     {
       "name": "University of Bristol — High Performance Computing Group",
@@ -35,10 +33,7 @@
       "startDate": "2022-06-01",
       "endDate": "2022-08-31",
       "summary": "Eight-week summer internship benchmarking MGCFD-OP2 on Arm architectures.",
-      "highlights": [
-        "Benchmarked ThunderX2, Graviton 2, and Graviton 3.",
-        "Released mgcfd-op2 and babelstream packages to the Spack repository."
-      ]
+      "highlights": ["Benchmarked ThunderX2, Graviton 2, and Graviton 3.", "Released mgcfd-op2 and babelstream packages to the Spack repository."]
     },
     {
       "name": "Motion Impossible",
@@ -71,9 +66,7 @@
       "startDate": "2017-01-01",
       "endDate": "2019-12-31",
       "summary": "Indoor vertical farming start-up operating as a PLC.",
-      "highlights": [
-        "Established and ran day-to-day operations and management of the business."
-      ]
+      "highlights": ["Established and ran day-to-day operations and management of the business."]
     },
     {
       "name": "Cubitt House",
@@ -82,9 +75,7 @@
       "startDate": "2014-01-01",
       "endDate": "2017-12-31",
       "summary": "Premium pub and hotel group (~£14m turnover).",
-      "highlights": [
-        "Operational delivery across sites, performance, procurement, and strategic planning."
-      ]
+      "highlights": ["Operational delivery across sites, performance, procurement, and strategic planning."]
     }
   ],
   "volunteer": [],
@@ -157,17 +148,7 @@
     {
       "name": "Tools & frameworks",
       "level": "",
-      "keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "OpenMP",
-        "MPI",
-        "OpenCL",
-        "AWS",
-        "Git",
-        "Unity",
-        "Unreal Engine"
-      ]
+      "keywords": ["PyTorch", "TensorFlow", "OpenMP", "MPI", "OpenCL", "AWS", "Git", "Unity", "Unreal Engine"]
     }
   ],
   "languages": [],
@@ -197,18 +178,14 @@
     {
       "name": "3D corallite reconstruction (BSc thesis)",
       "summary": "Volumetric ViT and topological loss for segmenting coral micro-CT data (Hargrave Prize).",
-      "highlights": [
-        "UNet–ViT pipeline on volumetric inputs; Blender API for interactive 3D analysis."
-      ],
+      "highlights": ["UNet–ViT pipeline on volumetric inputs; Blender API for interactive 3D analysis."],
       "startDate": "2022-09-01",
       "endDate": "2023-05-01"
     },
     {
       "name": "Lattice–Boltzmann HPC (NAG prize project)",
       "summary": "Distributed CFD mini-apps with OpenMP, MPI, and OpenCL (NAG HPC Student Prize).",
-      "highlights": [
-        "Architecture-specific optimisations, multi-node scaling, GPU offloading."
-      ],
+      "highlights": ["Architecture-specific optimisations, multi-node scaling, GPU offloading."],
       "startDate": "2022-09-01",
       "endDate": "2023-05-01"
     }
