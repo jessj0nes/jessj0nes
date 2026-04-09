@@ -24,8 +24,12 @@ latest_posts:
   enabled: false
 ---
 
-PhD candidate in **Robotics and Autonomous Systems** at the **University of Bristol** (FARSCOPE CDT), with a **First Class BSc in Computer Science** from Bristol. I am interested in **deep learning**, **multi-agent reinforcement learning**, and **vision-based methods** for robotics and for tools that support the scientific process.
+PhD candidate in Robotics and Autonomous Systems at the University of Bristol (FARSCOPE CDT), with a First Class BSc in Computer Science from University of Bristol. I am interested in deep learning, multi-agent reinforcement learning, and integrating AI as a tool for robotics, and to support the scientific process.
 
-I have worked as a **developer and researcher** at **CASM Technology** on natural language processing, fact-checking, and analysis of online content, including projects for the UK Cabinet Office. Earlier, I was a **full-stack software engineer** at **Motion Impossible**, building control systems for multi-robot camera dollies. Before moving into tech and research full time, I held **leadership roles in hospitality and a vertical-farming start-up**, which shaped how I approach teamwork and delivery.
+I continue to work as a developer and researcher at CASM Technology on the analysis of online content with specific focus on misinformation through the improper use of Generative AI content.
 
-**Supervisor:** [Prof. Sabine Hauert](https://www.bristol.ac.uk/engineering/people/sabine-hauert/index.html), University of Bristol.
+I am a member of the [PROTEAS](https://www.proteasgroup.com) group, exploring new opportunities to develop autonomous systems for positive environmental and social impact 
+
+Before moving into tech and research full time, I held leadership roles in hospitality and a vertical-farming start-up, which shaped how I approach teamwork and delivery.
+
+Supervisors: [Prof. Sabine Hauert, OBE](https://www.bristol.ac.uk/people/person/Sabine-Hauert-f714ce91-f09a-47e1-b573-f4e120cac448/) and [Prof. Raul Santos-Rodriguez](https://www.bristol.ac.uk/people/person/Raul-Santos-Rodriguez-1d708791-ea39-4078-89e6-c5c81b8c1a22/), University of Bristol.

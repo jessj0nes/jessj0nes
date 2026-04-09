@@ -21,7 +21,7 @@ cv:
         location: Bristol, UK
         highlights:
           - "FARSCOPE Centre for Doctoral Training."
-          - "Supervisor: Prof. Sabine Hauert."
+          - "Supervisors: Prof. Sabine Hauert, OBE and Prof. Raul Santos-Rodriguez."
 
       - institution: University of Bristol
         area: Computer Science
@@ -139,6 +139,9 @@ cv:
       - name: Prof. Sabine Hauert, OBE
         highlights:
           - "PhD supervisor, University of Bristol — sabine.hauert@bristol.ac.uk"
+      - name: Prof. Raul Santos-Rodriguez
+        highlights:
+          - "PhD supervisor, University of Bristol — enrsr@bristol.ac.uk"
       - name: David Weir
         highlights:
           - "Director, CASM Technology — davidw@casmtechnology.com"
