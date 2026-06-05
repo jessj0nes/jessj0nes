@@ -86,6 +86,8 @@ cv:
       - title: "Assessing VLM-Driven Semantic Affordance Inference for Non-Humanoid Robot Morphologies"
         authors:
           - Jess Jones
+          - Raul Santos-Rodriguez
+          - Sabine Hauert
         doi: 10.65109/WTKR8312
         date: 2026
         journal: "Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
