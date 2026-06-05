@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-aamas-2026-assessing-vlm-driven-semantic-affordance-inference-for-non-humanoid-robot-morphologies-arxiv-preprint-doi",
           title: 'Paper accepted at AAMAS 2026: Assessing VLM-Driven Semantic Affordance Inference for Non-Humanoid Robot...',
           description: "",
+          section: "News",},{id: "news-paper-accepted-at-icpr-cvbmc-2026-workshop-corallite-μct-reconstruction-of-coral-colonies-from-individual-corallites-arxiv-preprint-doi",
+          title: 'Paper accepted at ICPR: CVBMC 2026 Workshop: CoralLite: μCT Reconstruction of Coral Colonies...',
+          description: "",
           section: "News",},{id: "projects-vlm-affordance-inference",
           title: 'VLM Affordance Inference',
           description: "Assessing VLM-driven semantic affordance inference for non-humanoid robot morphologies (AAMAS 2026).",
@@ -67,6 +70,11 @@ ninja.data = [{
           description: "Full-stack system for simultaneous control of multiple robotic camera dollies at Motion Impossible.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-corallite",
+          title: 'CoralLite',
+          description: "μCT reconstruction of coral colonies from individual corallites (ICPR CVBMC 2026).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
