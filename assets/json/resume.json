@@ -137,6 +137,13 @@
       "releaseDate": "2026-01-01",
       "url": "https://doi.org/10.65109/WTKR8312",
       "summary": "Evaluates vision-language models for zero-shot affordance inference on non-humanoid robots, including conservative bias with implications for safe deployment."
+    },
+    {
+      "name": "CoralLite: μCT Reconstruction of Coral Colonies from Individual Corallites",
+      "publisher": "ICPR CVBMC 2026",
+      "releaseDate": "2026-01-01",
+      "url": "https://arxiv.org/abs/2605.15093",
+      "summary": "Annotated μCT scan dataset and first corallite deep learning reconstruction baseline for coral skeletons, with a hybrid V-Trans-UNet segmentation approach."
     }
   ],
   "skills": [

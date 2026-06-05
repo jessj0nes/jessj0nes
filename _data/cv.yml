@@ -90,6 +90,16 @@ cv:
         date: 2026
         journal: "Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
 
+      - title: "CoralLite: μCT Reconstruction of Coral Colonies from Individual Corallites"
+        authors:
+          - Jess Jones
+          - Leonardo Bertini
+          - Kenneth Johnson
+          - Erica Hendy
+          - Tilo Burghardt
+        date: 2026
+        journal: "Proceedings of the CVBMC Workshop at the International Conference on Pattern Recognition (ICPR)"
+
     Awards:
       - name: Hargrave Prize
         date: 2023-08
