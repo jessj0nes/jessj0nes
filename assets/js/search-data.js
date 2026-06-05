@@ -32,7 +32,7 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-aamas-2026-assessing-vlm-driven-semantic-affordance-inference-for-non-humanoid-robot-morphologies-arxiv-preprint-doi",
           title: 'Paper accepted at AAMAS 2026: Assessing VLM-Driven Semantic Affordance Inference for Non-Humanoid Robot...',
           description: "",
-          section: "News",},{id: "news-paper-accepted-at-icpr-cvbmc-2026-workshop-corallite-μct-reconstruction-of-coral-colonies-from-individual-corallites-arxiv-preprint-doi",
+          section: "News",},{id: "news-paper-accepted-at-icpr-cvbmc-2026-workshop-corallite-μct-reconstruction-of-coral-colonies-from-individual-corallites-arxiv-preprint",
           title: 'Paper accepted at ICPR: CVBMC 2026 Workshop: CoralLite: μCT Reconstruction of Coral Colonies...',
           description: "",
           section: "News",},{id: "projects-vlm-affordance-inference",
