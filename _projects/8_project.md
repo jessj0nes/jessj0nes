@@ -2,7 +2,7 @@
 layout: page
 title: CoralLite
 description: μCT reconstruction of coral colonies from individual corallites (ICPR CVBMC 2026).
-importance: 1
+importance: 2
 category: Publications
 related_publications: true
 ---

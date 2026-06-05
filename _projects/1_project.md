@@ -2,7 +2,7 @@
 layout: page
 title: VLM Affordance Inference
 description: Assessing VLM-driven semantic affordance inference for non-humanoid robot morphologies (AAMAS 2026).
-importance: 2
+importance: 1
 category: Publications
 related_publications: true
 ---
